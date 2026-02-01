@@ -1,12 +1,12 @@
 # Easy-Output-Stats-0.3
 
-HTML page read OBS reat outputs bitrate from Aitum Vertical, Multistream and Suite.
-This is not a real precise stats tool.
-Detect Bitrate and FPS.
-Logic behind :
--IF Fps lower than target = Encoder overload.
--IF Bitrate lower equals zero = Connection regected.
--IF Bitrate lower than target = Dropping connection.
+HTML page read OBS reat outputs bitrate from Aitum Vertical, Multistream and Suite.\
+This is not a real precise stats tool.\
+Detect Bitrate and FPS.\
+Logic behind :\
+-IF Fps lower than target = Encoder overload.\
+-IF Bitrate lower equals zero = Connection regected.\
+-IF Bitrate lower than target = Dropping connection.\
 
 Connects with Websocket.
 Just open in a browser and copy paste the path as a Custom dock is OBS.
