@@ -1,4 +1,4 @@
-# Easy-Output-Stats-0.3
+# Easy-Output-Stats
 
 HTML page read OBS outputs bitrate from Aitum Vertical, Multistream and Suite.\
 This is not a real precise stats tool.\
